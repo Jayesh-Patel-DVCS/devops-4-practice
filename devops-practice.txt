@@ -10,3 +10,5 @@ git config --global user.mail
 git checkout -b branchname
 git checkout branchname
 git restore
+git pull origin main
+
