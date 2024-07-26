@@ -2,3 +2,16 @@ git init
 git status
 git add
 git rm --cached filename
+git commit
+git log
+git log --oneline --preety
+git config --global user.name
+git config --global user.mail
+git checkout -b branchname
+git checkout branchname
+git restore
+git pull origin main
+git remote set-url [--push] origin newurl [oldurl]
+git remote set-url --add origin newurl
+git remote set-url --delete oldurl
+git remote -v
