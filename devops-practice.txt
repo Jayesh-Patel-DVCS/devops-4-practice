@@ -15,4 +15,3 @@ git remote set-url [--push] origin newurl [oldurl]
 git remote set-url --add origin newurl
 git remote set-url --delete oldurl
 git remote -v
-
